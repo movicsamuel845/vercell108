@@ -1,0 +1,4 @@
+baseURL = "https://gardenebeautyblom.vercel.app"
+languageCode = "en-us"
+title = "Beauty Centre Garden"
+theme = "tale-hugo-master"
